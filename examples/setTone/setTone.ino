@@ -8,6 +8,5 @@ void setup() {
 }
 
 void loop() {
-  Serial.println(board.getLightValue());
-  delay(1000);
+  board.setTone(board.getPotentiometerValue()/10, 100);
 }
