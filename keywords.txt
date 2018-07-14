@@ -1,5 +1,5 @@
 Arduino_Nano_Play_Board	KEYWORD1
 getLightValue	KEYWORD2
-getPotentiometerValue	KEYWORD3
-setTone	KEYWORD4
-setPixel	KEYWORD5
+getPotentiometerValue	KEYWORD2
+setTone	KEYWORD2
+setPixel	KEYWORD2
